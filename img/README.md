@@ -1,0 +1,1 @@
+No external image assets are required. The hero illustration is built with HTML and CSS. Place any original, licensed project images in this folder and reference them with relative paths from index.html or css/style.css.
